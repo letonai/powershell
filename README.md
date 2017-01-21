@@ -1,4 +1,7 @@
 #PowerShell script collection
 
+```
+powershell gmd5.ps1
+```
 
-# powershell
+Simple graphical interface to generate md5 natively on windows with powershell
